@@ -22,6 +22,10 @@ person_keypoints_train2017.json
 !report/individual/images/*.jpeg
 !docs/images/*.jpg
 !src/lab/images/*.jpg
+report/individual/image.png
+report/individual/image-1.png
+report/individual/image-2.png
+src/exports/NguyenThanhPhong_persons/
 
 # Ground truth chỉ coach giữ
 coach_gt/
